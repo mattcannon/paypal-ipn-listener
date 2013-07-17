@@ -1,4 +1,4 @@
-#PayPal IPN Listener [![Build Status](https://secure.travis-ci.org/mike182uk/paypal-ipn-listener.png)](http://travis-ci.org/mike182uk/paypal-ipn-listener)
+#PayPal IPN Listener [![Build Status](https://secure.travis-ci.org/mattcannon/paypal-ipn-listener.png)](http://travis-ci.org/mattcannon/paypal-ipn-listener)
 
 A PayPal IPN (Instant Payment Notification) listener for PHP >=5.3.0. If you are looking for a < 5.3.0 compatible PayPal IPN Listener i highly recommend - [https://github.com/Quixotix/PHP-PayPal-IPN](https://github.com/Quixotix/PHP-PayPal-IPN) (This package is heavily based around this).
 
