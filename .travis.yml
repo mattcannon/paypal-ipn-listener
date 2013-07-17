@@ -8,5 +8,5 @@ script: phpunit
 
 notifications:
   email:
-	on_success: never # default: change
+    on_success: never # default: change
     on_failure: change # default: always
